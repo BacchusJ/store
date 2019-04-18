@@ -1,3 +1,25 @@
 .mainTitle {
   font-family: 'Cinzel', serif;
 }
+
+.padd {
+  margin-right: 2%;
+  display: flex;
+  float: left;
+}
+
+#bottom {
+  margin-bottom: 2em;
+}
+
+#photos {
+  padding-bottom: 25px
+}
+.row {
+  padding-bottom: 25px;
+}
+
+.carouselImage {
+  width: 100%;
+  height: auto;
+}
